@@ -1,3 +1,3 @@
-# Noise Bot
+# Discord Generative Bot
 
-A Discord bot that plays generative music
+A self-hosted Discord bot that plays generative music
